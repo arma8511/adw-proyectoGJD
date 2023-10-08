@@ -10,4 +10,5 @@ case when Name in ('Southwest','Northwest','Southeast','Central','Northeast') th
 from Sales_SalesTerritory
 ;
 
+
  

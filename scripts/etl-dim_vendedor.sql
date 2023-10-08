@@ -28,4 +28,3 @@ from Sales_SalesPerson as sp
     join HumanResources_EmployeeDepartmentHistory as hrhist using (BusinessEntityID)
     join HumanResources_Department as hrdept using (DepartmentID)
 ;
-
